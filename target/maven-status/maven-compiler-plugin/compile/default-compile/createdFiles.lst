@@ -1,0 +1,4 @@
+com\oswald\servlet\LogoutServlet.class
+com\oswald\servlet\LoginServlet.class
+com\oswald\model\User.class
+com\oswald\util\HibernateUtil.class
